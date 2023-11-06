@@ -1,4 +1,5 @@
 ﻿using System;
+//using static System.Console;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,9 @@ namespace HelloWorld2
             Console.WriteLine("줄바꿈 있는 HelloWorld");
             Console.Write("줄바꿈 없는 HelloWorld ");
             Console.WriteLine("줄바꿈 있는 HelloWorld");
+
+
+            
 
         }
     }
