@@ -1,0 +1,7 @@
+C:\C#\Practice_C_sharp\Practice_C_sharp\bin\Debug\Practice_C_sharp.exe.config
+C:\C#\Practice_C_sharp\Practice_C_sharp\bin\Debug\Practice_C_sharp.exe
+C:\C#\Practice_C_sharp\Practice_C_sharp\bin\Debug\Practice_C_sharp.pdb
+C:\C#\Practice_C_sharp\Practice_C_sharp\obj\Debug\Practice_C_sharp.csproj.AssemblyReference.cache
+C:\C#\Practice_C_sharp\Practice_C_sharp\obj\Debug\Practice_C_sharp.csproj.CoreCompileInputs.cache
+C:\C#\Practice_C_sharp\Practice_C_sharp\obj\Debug\Practice_C_sharp.exe
+C:\C#\Practice_C_sharp\Practice_C_sharp\obj\Debug\Practice_C_sharp.pdb

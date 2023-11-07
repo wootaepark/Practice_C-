@@ -1,0 +1,7 @@
+C:\C#\VariableNote\VariableNote\bin\Debug\VariableNote.exe.config
+C:\C#\VariableNote\VariableNote\bin\Debug\VariableNote.exe
+C:\C#\VariableNote\VariableNote\bin\Debug\VariableNote.pdb
+C:\C#\VariableNote\VariableNote\obj\Debug\VariableNote.csproj.AssemblyReference.cache
+C:\C#\VariableNote\VariableNote\obj\Debug\VariableNote.csproj.CoreCompileInputs.cache
+C:\C#\VariableNote\VariableNote\obj\Debug\VariableNote.exe
+C:\C#\VariableNote\VariableNote\obj\Debug\VariableNote.pdb
