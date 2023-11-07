@@ -13,7 +13,7 @@ namespace VariableNote
             int a, b, c;
             a = b = c = 0;
 
-            Console.WriteLine("{0}, {1}, {1}", a, b, c);
+            Console.WriteLine("{0}, {1}, {2}", a, b, c);
 
 
         }
