@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7AFEF964-F94B-45AA-836D-F0E138022659}</ProjectGuid>
+    <ProjectGuid>{519D3456-1C2B-44A8-8CE1-37ECD72FC21E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ch7</RootNamespace>
-    <AssemblyName>Ch7</AssemblyName>
+    <RootNamespace>Ch9</RootNamespace>
+    <AssemblyName>Ch9</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="CharacterDemo.cs" />
-    <None Include="BooleanDemo.cs" />
-    <None Include="MultiLineString.cs" />
-    <Compile Include="CharStringBoolean.cs" />
+    <None Include="OperatorAdd.cs" />
+    <Compile Include="AdditionOperator.cs" />
+    <None Include="OperatorArithmetic.cs" />
+    <None Include="OperatorRemainder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <None Include="StringKeyword.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

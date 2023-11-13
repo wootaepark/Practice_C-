@@ -1,0 +1,7 @@
+C:\C#\Ch7\Ch7\bin\Debug\Ch7.exe.config
+C:\C#\Ch7\Ch7\bin\Debug\Ch7.exe
+C:\C#\Ch7\Ch7\bin\Debug\Ch7.pdb
+C:\C#\Ch7\Ch7\obj\Debug\Ch7.csproj.AssemblyReference.cache
+C:\C#\Ch7\Ch7\obj\Debug\Ch7.csproj.CoreCompileInputs.cache
+C:\C#\Ch7\Ch7\obj\Debug\Ch7.exe
+C:\C#\Ch7\Ch7\obj\Debug\Ch7.pdb

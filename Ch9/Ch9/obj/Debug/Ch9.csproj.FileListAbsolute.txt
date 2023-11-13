@@ -1,0 +1,7 @@
+C:\C#\Ch9\Ch9\bin\Debug\Ch9.exe.config
+C:\C#\Ch9\Ch9\bin\Debug\Ch9.exe
+C:\C#\Ch9\Ch9\bin\Debug\Ch9.pdb
+C:\C#\Ch9\Ch9\obj\Debug\Ch9.csproj.AssemblyReference.cache
+C:\C#\Ch9\Ch9\obj\Debug\Ch9.csproj.CoreCompileInputs.cache
+C:\C#\Ch9\Ch9\obj\Debug\Ch9.exe
+C:\C#\Ch9\Ch9\obj\Debug\Ch9.pdb

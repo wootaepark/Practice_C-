@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7AFEF964-F94B-45AA-836D-F0E138022659}</ProjectGuid>
+    <ProjectGuid>{4745F821-65AB-4EB9-A577-1B51D5530596}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ch7</RootNamespace>
-    <AssemblyName>Ch7</AssemblyName>
+    <RootNamespace>Ch8</RootNamespace>
+    <AssemblyName>Ch8</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="CharacterDemo.cs" />
-    <None Include="BooleanDemo.cs" />
-    <None Include="MultiLineString.cs" />
-    <Compile Include="CharStringBoolean.cs" />
+    <None Include="VarInput.cs" />
+    <None Include="Var.cs" />
+    <None Include="ReadLineCharacter.cs" />
+    <None Include="ReadLineRealNumber.cs" />
+    <None Include="ReadLineInteger.cs" />
+    <None Include="TypeConversion.cs" />
+    <None Include="TypeConversionError.cs" />
+    <None Include="ConsoleReadLineDemo.cs" />
+    <None Include="ReadLineDemo.cs" />
+    <None Include="InputName.cs" />
+    <None Include="ConsoleReadDemo.cs" />
+    <None Include="IntToByte.cs" />
+    <None Include="GetTypeDemo.cs" />
+    <None Include="BinaryString.cs" />
+    <Compile Include="KeyboardInput.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <None Include="StringKeyword.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

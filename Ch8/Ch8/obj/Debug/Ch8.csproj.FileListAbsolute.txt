@@ -1,0 +1,7 @@
+C:\C#\Ch8\Ch8\bin\Debug\Ch8.exe.config
+C:\C#\Ch8\Ch8\bin\Debug\Ch8.exe
+C:\C#\Ch8\Ch8\bin\Debug\Ch8.pdb
+C:\C#\Ch8\Ch8\obj\Debug\Ch8.csproj.AssemblyReference.cache
+C:\C#\Ch8\Ch8\obj\Debug\Ch8.csproj.CoreCompileInputs.cache
+C:\C#\Ch8\Ch8\obj\Debug\Ch8.exe
+C:\C#\Ch8\Ch8\obj\Debug\Ch8.pdb
